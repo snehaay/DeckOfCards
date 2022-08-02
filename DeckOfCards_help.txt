@@ -1,0 +1,11 @@
+http://localhost:8080/games/
+
+Body
+{
+    "gameId": 12,
+    "noOfPlayers": 3
+}
+
+http://localhost:8080/shuffle/12
+
+http://localhost:8080/display/12
